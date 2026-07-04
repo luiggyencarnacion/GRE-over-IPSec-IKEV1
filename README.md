@@ -1,13 +1,13 @@
-# 🔒 VPN GRE over IPSec — IKEv1
-
+# 🔒 VPN Site-to-Site GRE over IPSec — IKEv1
+ 
 **Luiggy Habraham Encarnación Cabrera · Matrícula 2025-0663**
-
+ 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Topologia](https://img.shields.io/badge/Topolog%C3%ADa-Site--to--Site-8A2BE2?style=for-the-badge)
 ![Tunnel](https://img.shields.io/badge/T%C3%BAnel-GRE-orange?style=for-the-badge)
 ![IKE](https://img.shields.io/badge/IKE-v1-6E4C13?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/Emulador-GNS3-009639?style=for-the-badge)
-![Uso](https://img.shields.io/badge/Uso-Educativo-blue?style=for-the-badge)
-
+ 
 > Túnel GRE cifrado con IPSec (IKEv1) entre dos sitios remotos, permitiendo enrutamiento dinámico OSPF sobre la VPN.
 
 ---
