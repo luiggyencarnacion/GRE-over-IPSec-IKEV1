@@ -99,7 +99,7 @@ Establecer un túnel **GRE encapsulado sobre IPSec** entre dos sitios remotos (S
 
 ## 🔧 Configuración
 
-Ver archivo: `Configuración para VPN GRE over IPSec IKEv1.txt`
+Ver archivo: `files/config.txt`
 
 Resumen de bloques configurados por dispositivo:
 - **ISP-CLARO**: solo enrutamiento estático, simula el proveedor (no participa en la VPN).
@@ -127,7 +127,7 @@ Se espera:
 ## 📸 Capturas de Pantalla
 
 ```
-evidencias/
+images/
 ├── 01_topologia.png
 ├── 02_show_crypto_isakmp_sa.png
 ├── 03_show_crypto_ipsec_sa.png
